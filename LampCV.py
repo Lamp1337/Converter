@@ -8,7 +8,7 @@ import time
 #Let's goooo
 tolol = """
 [#]===================================[#]
-[+] Converter Coded by Lucid
+[+] Converter Coded by Lucid/Lamp
 [+] Credit : NumeXx
 [#]===================================[#]
 [+] 1. Install Package JS to Exe
