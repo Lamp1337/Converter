@@ -1,5 +1,5 @@
 #Converter Python & Javascript to Exe
-#Coded by Lucid, (C) NumeXx
+#Coded by Lamp, (C) NumeXx
 
 #import module
 import os
@@ -8,7 +8,7 @@ import time
 #Let's goooo
 tolol = """
 [#]===================================[#]
-[+] Converter Coded by Lucid/Lamp
+[+] Converter Coded by Lamp
 [+] Credit : NumeXx
 [#]===================================[#]
 [+] 1. Install Package JS to Exe
